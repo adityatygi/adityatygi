@@ -452,7 +452,7 @@ AI + Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatygi&bg_color=ffffff00&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=true&custom_title=Aditya%20Tyagi's%20Contribution%20Graph"/>
+![GitHub Contribution Graph](https://ghchart.rshah.org/adityatygi)
 
 </div>
 
