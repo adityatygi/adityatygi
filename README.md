@@ -442,7 +442,7 @@ AI + Analytics
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adityatygi&theme=transparent&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=adityatygi&theme=default&hide_border=true" />
 
 </div>
 
