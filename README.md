@@ -430,11 +430,12 @@ AI + Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityatygi&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatygi&layout=compact&theme=default&hide_border=true&langs_count=8" height="180"/>
+<img src="https://img.shields.io/github/followers/adityatygi?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/adityatygi?affiliations=OWNER&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/commit-activity/y/adityatygi/Meridian---AI-Market-Research-Strategy-Engine?style=for-the-badge&logo=github" />
 
 </div>
+
 
 
 ---
